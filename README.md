@@ -179,3 +179,4 @@ Storage failures are handled gracefully; those preferences may simply not persis
 - [ ] Check a narrow phone viewport and a desktop viewport, then test keyboard focus and reduced-motion settings.
 - [ ] Run `npm run build` before deployment.
 - [ ] Test the deployed URL, image paths, and direct page refresh after each deployment.
+# lovey-dovey
